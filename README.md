@@ -52,13 +52,13 @@
 
 ## 2.3 - HTML/CSS/Bootstrap 🟡
 ### Что почитать
-* 🔴[Супер руководство по HTML на русском](https://developer.mozilla.org/ru/docs/Web/HTML)
-* 🔴[Справочник по HTML на русском](http://htmlbook.ru/html)
-* 🔴[Руководство по CSS на русском](https://developer.mozilla.org/ru/docs/Web/CSS/Reference)
-* 🔴[Справочник CSS на русском](http://htmlbook.ru/css)
+* 🟡[Супер руководство по HTML на русском](https://developer.mozilla.org/ru/docs/Web/HTML)
+* 🟡[Справочник по HTML на русском](http://htmlbook.ru/html)
+* 🟡[Руководство по CSS на русском](https://developer.mozilla.org/ru/docs/Web/CSS/Reference)
+* 🟡[Справочник CSS на русском](http://htmlbook.ru/css)
 * 🔴[Руководство по HTML5 и CSS3](https://metanit.com/web/html5/)
-* 🔴[Bootstrap-4 Документация на русском языке](https://bootstrap-4.ru/docs/5.0/getting-started/introduction/)
-* 🔴[Bootstrap-5 Документация на русском языке](https://bootstrap5.ru/docs/getting-started/introduction)
+* 🟡[Bootstrap-4 Документация на русском языке](https://bootstrap-4.ru/docs/5.0/getting-started/introduction/)
+* 🟡[Bootstrap-5 Документация на русском языке](https://bootstrap5.ru/docs/getting-started/introduction)
 ---
 
 ## 2.4 - Какие проекты выполнить что-бы изучить Django на практике 🔴
@@ -85,14 +85,14 @@
 
 ## 4 - Docker 🔴
 ### Что почитать
-* 🔴 [🐳 Учебник Docker на русском](https://t.me/devs_store/81)
+* 🟡 [🐳 Учебник Docker на русском](https://t.me/devs_store/81)
 ---
   
 ## 5 - Telegram боты 🟡
 ### Что почитать
 * 🔴 [Telegram APIs](https://core.telegram.org/)
 * 🔴 [Документация AIOGram](https://docs.aiogram.dev/en/latest/)
-* 🔴 [Быстрый старт. Эхо-бот на AIOGram](https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
+* 🟡 [Быстрый старт. Эхо-бот на AIOGram](https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
 ---
 
 ## 6 - Знание английского языка 🟡
